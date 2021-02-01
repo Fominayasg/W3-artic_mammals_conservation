@@ -1,0 +1,121 @@
+,year,code,category,species
+0,2015,VU,Vulnerable,Ursus maritimus
+1,2008,VU,Vulnerable,Ursus maritimus
+2,2006,VU,Vulnerable,Ursus maritimus
+3,1996,LR/cd,Lower Risk/conservation dependent,Ursus maritimus
+4,1994,V,Vulnerable,Ursus maritimus
+5,1990,V,Vulnerable,Ursus maritimus
+6,1988,V,Vulnerable,Ursus maritimus
+7,1986,V,Vulnerable,Ursus maritimus
+8,1982,V,Vulnerable,Ursus maritimus
+9,1965,,"""Less rare but believed to be threatened-requires watching""",Ursus maritimus
+0,2016,VU,Vulnerable,Odobenus rosmarus
+1,2008,DD,Data Deficient,Odobenus rosmarus
+2,1996,LR/lc,Lower Risk/least concern,Odobenus rosmarus
+0,2018,LC,Least Concern,Eschrichtius robustus
+1,2008,LC,Least Concern,Eschrichtius robustus
+2,1996,LR/cd,Lower Risk/conservation dependent,Eschrichtius robustus
+0,2015,EN,Endangered,Enhydra lutris
+1,2011,EN,Endangered,Enhydra lutris
+2,2008,EN,Endangered,Enhydra lutris
+3,2000,EN,Endangered,Enhydra lutris
+4,1996,LR/lc,Lower Risk/least concern,Enhydra lutris
+0,2008,DD,Data Deficient,Hyperoodon ampullatus
+1,1996,LR/cd,Lower Risk/conservation dependent,Hyperoodon ampullatus
+2,1994,K,Insufficiently Known,Hyperoodon ampullatus
+3,1990,V,Vulnerable,Hyperoodon ampullatus
+4,1988,V,Vulnerable,Hyperoodon ampullatus
+5,1986,V,Vulnerable,Hyperoodon ampullatus
+0,2008,VU,Vulnerable,Physeter macrocephalus
+1,1996,VU,Vulnerable,Physeter macrocephalus
+2,1994,K,Insufficiently Known,Physeter macrocephalus
+0,2018,LC,Least Concern,Balaena mysticetus
+1,2012,LC,Least Concern,Balaena mysticetus
+2,2008,LC,Least Concern,Balaena mysticetus
+3,1996,LR/cd,Lower Risk/conservation dependent,Balaena mysticetus
+4,1994,V,Vulnerable,Balaena mysticetus
+5,1990,V,Vulnerable,Balaena mysticetus
+6,1988,E,Endangered,Balaena mysticetus
+7,1986,E,Endangered,Balaena mysticetus
+8,1965,,"""Very rare but believed to be stable or increasing""",Balaena mysticetus
+0,2020,LC,Least Concern,Phocoena phocoena
+1,2008,LC,Least Concern,Phocoena phocoena
+2,1996,VU,Vulnerable,Phocoena phocoena
+3,1994,K,Insufficiently Known,Phocoena phocoena
+4,1990,K,Insufficiently Known,Phocoena phocoena
+5,1988,K,Insufficiently Known,Phocoena phocoena
+0,2018,VU,Vulnerable,Balaenoptera physalus
+1,2013,EN,Endangered,Balaenoptera physalus
+2,2008,EN,Endangered,Balaenoptera physalus
+3,1996,EN,Endangered,Balaenoptera physalus
+4,1994,V,Vulnerable,Balaenoptera physalus
+5,1990,V,Vulnerable,Balaenoptera physalus
+6,1988,V,Vulnerable,Balaenoptera physalus
+7,1986,V,Vulnerable,Balaenoptera physalus
+8,1965,,"""Less rare but believed to be threatened-requires watching""",Balaenoptera physalus
+0,2016,LC,Least Concern,Phoca vitulina
+1,2008,LC,Least Concern,Phoca vitulina
+2,1996,LR/lc,Lower Risk/least concern,Phoca vitulina
+0,2017,LC,Least Concern,Delphinapterus leucas
+1,2012,NT,Near Threatened,Delphinapterus leucas
+2,2008,NT,Near Threatened,Delphinapterus leucas
+3,1996,VU,Vulnerable,Delphinapterus leucas
+4,1994,K,Insufficiently Known,Delphinapterus leucas
+5,1990,K,Insufficiently Known,Delphinapterus leucas
+6,1988,K,Insufficiently Known,Delphinapterus leucas
+0,2015,VU,Vulnerable,Callorhinus ursinus
+1,2008,VU,Vulnerable,Callorhinus ursinus
+2,1996,VU,Vulnerable,Callorhinus ursinus
+0,2016,NT,Near Threatened,Eumetopias jubatus
+1,2012,NT,Near Threatened,Eumetopias jubatus
+2,2008,EN,Endangered,Eumetopias jubatus
+3,1996,EN,Endangered,Eumetopias jubatus
+4,1994,V,Vulnerable,Eumetopias jubatus
+0,2018,LC,Least Concern,Megaptera novaeangliae
+1,2008,LC,Least Concern,Megaptera novaeangliae
+2,1996,VU,Vulnerable,Megaptera novaeangliae
+3,1994,V,Vulnerable,Megaptera novaeangliae
+4,1990,V,Vulnerable,Megaptera novaeangliae
+5,1988,E,Endangered,Megaptera novaeangliae
+6,1986,E,Endangered,Megaptera novaeangliae
+7,1965,,"""Less rare but believed to be threatened-requires watching""",Megaptera novaeangliae
+0,2018,EN,Endangered,Balaenoptera borealis
+1,2008,EN,Endangered,Balaenoptera borealis
+2,1996,EN,Endangered,Balaenoptera borealis
+3,1994,V,Vulnerable,Balaenoptera borealis
+0,2018,LC,Least Concern,Globicephala melas
+1,2008,DD,Data Deficient,Globicephala melas
+2,1996,LR/lc,Lower Risk/least concern,Globicephala melas
+3,1994,K,Insufficiently Known,Globicephala melas
+0,2018,LC,Least Concern,Balaenoptera acutorostrata
+1,2008,LC,Least Concern,Balaenoptera acutorostrata
+2,1996,LR/nt,Lower Risk/near threatened,Balaenoptera acutorostrata
+3,1994,K,Insufficiently Known,Balaenoptera acutorostrata
+0,2017,LC,Least Concern,Monodon monoceros
+1,2012,NT,Near Threatened,Monodon monoceros
+2,2008,NT,Near Threatened,Monodon monoceros
+3,1996,DD,Data Deficient,Monodon monoceros
+4,1994,K,Insufficiently Known,Monodon monoceros
+5,1990,K,Insufficiently Known,Monodon monoceros
+6,1988,K,Insufficiently Known,Monodon monoceros
+0,2018,EN,Endangered,Balaenoptera musculus
+1,2008,EN,Endangered,Balaenoptera musculus
+2,1996,EN,Endangered,Balaenoptera musculus
+3,1994,E,Endangered,Balaenoptera musculus
+4,1990,E,Endangered,Balaenoptera musculus
+5,1988,E,Endangered,Balaenoptera musculus
+6,1986,E,Endangered,Balaenoptera musculus
+7,1965,,"""Very rare and believed to be decreasing in numbers""",Balaenoptera musculus
+0,2017,DD,Data Deficient,Orcinus orca
+1,2013,DD,Data Deficient,Orcinus orca
+2,2008,DD,Data Deficient,Orcinus orca
+3,1996,LR/cd,Lower Risk/conservation dependent,Orcinus orca
+4,1994,K,Insufficiently Known,Orcinus orca
+0,2016,LC,Least Concern,Pusa hispida
+1,2008,LC,Least Concern,Pusa hispida
+2,1996,LR/lc,Lower Risk/least concern,Pusa hispida
+0,2018,LC,Least Concern,Phocoenoides dalli
+1,2012,LC,Least Concern,Phocoenoides dalli
+2,2008,LC,Least Concern,Phocoenoides dalli
+3,1996,LR/cd,Lower Risk/conservation dependent,Phocoenoides dalli
+4,1994,K,Insufficiently Known,Phocoenoides dalli

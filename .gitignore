@@ -1,0 +1,6 @@
+**/.DS_Store
+**/*.ipynb_checkpoints/
+**/*__pycache__
+.vscode
+Arctic Species Trend Index (ASTI) _Marine.csv
+token.txt
