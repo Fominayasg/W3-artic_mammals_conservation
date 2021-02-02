@@ -1,5 +1,7 @@
 # Artic fauna conservation
 
+![picture](img/humpback-whale-436120.jpg)
+
 This repository will analyze how the situation of various arctic species has changed over the years.
 It will focus primarily on marine mammals.
 
@@ -21,5 +23,6 @@ After cleaning the dataset, the number of species was reduced only to marine mam
 ## Enrichment
 
 As the objective is to see if the species have changed their degree of threat, it was decided to enrich the data set using the IUCN API :IUCN 2020. IUCN Red List of Threatened Species. Version 2020-3 <www.iucnredlist.org>
+https://apiv3.iucnredlist.org/api/v3/
 
 Historical data of the threat categories of each of the species were obtained from it and they were collected in a new data set also included in the "data" folder.
