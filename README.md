@@ -1,6 +1,6 @@
 # Artic fauna conservation
 
-![picture](img/humpback-whale-436120.jpg)
+![picture](images/humpback-whale-436120.jpg)
 
 This repository will analyze how the situation of various arctic species has changed over the years.
 It will focus primarily on marine mammals.
