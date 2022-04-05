@@ -26,3 +26,14 @@ As the objective is to see if the species have changed their degree of threat, i
 https://apiv3.iucnredlist.org/api/v3/
 
 Historical data of the threat categories of each of the species were obtained from it and they were collected in a new data set also included in the "data" folder.
+
+### Technology Stack
+In this project we have used the following libraries:
+ - [pandas](https://pandas.pydata.org/docs/)
+ 
+ - [numpy](https://numpy.org/doc/stable/)
+ 
+ - [seaborn](https://seaborn.pydata.org/)
+ 
+ - our own [cleaning functions](https://github.com/Fominayasg/W3-pipelines-project-artic_mammals/blob/main/src/cleaning_magic.py)
+ - ourr own functions to enrich the data set with the IUCN [API](https://github.com/Fominayasg/W3-pipelines-project-artic_mammals/blob/main/src/api_functions.py)
