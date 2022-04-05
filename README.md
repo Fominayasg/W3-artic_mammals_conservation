@@ -27,7 +27,7 @@ https://apiv3.iucnredlist.org/api/v3/
 
 Historical data of the threat categories of each of the species were obtained from it and they were collected in a new data set also included in the "data" folder.
 
-### Technology Stack
+## Technology Stack
 In this project we have used the following libraries:
  - [pandas](https://pandas.pydata.org/docs/)
  
