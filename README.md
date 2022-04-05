@@ -36,4 +36,4 @@ In this project we have used the following libraries:
  - [seaborn](https://seaborn.pydata.org/)
  
  - our own [cleaning functions](https://github.com/Fominayasg/W3-pipelines-project-artic_mammals/blob/main/src/cleaning_magic.py)
- - ourr own functions to enrich the data set with the IUCN [API](https://github.com/Fominayasg/W3-pipelines-project-artic_mammals/blob/main/src/api_functions.py)
+ - ourr own [API functions](https://github.com/Fominayasg/W3-pipelines-project-artic_mammals/blob/main/src/api_functions.py) to enrich the data set with the IUCN API.
