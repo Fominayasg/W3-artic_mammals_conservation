@@ -17,7 +17,7 @@ It had 23499 registers.
 
 ## Cleaning
 
-The file collected information on the presence of multiple species over time.
+The file collected information about the presence of multiple species over time.
 After cleaning the dataset, the number of species was reduced only to marine mammals, creating a new file that can be found in the "data" folder.
 
 
