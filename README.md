@@ -2,8 +2,8 @@
 
 ![picture](https://github.com/Fominayasg/W3-pipelines-project-artic_mammals/blob/main/Images/humpback-whale-436120.jpg)
 
-This repository will analyze how the situation of various arctic species has changed over the years.
-It will focus primarily on marine mammals.
+This repository will analyze how the situation of various artic species has changed over the years.
+It will focus primarily on marine mammals, specifically in whales.
 
 
 ## Primary dataset
